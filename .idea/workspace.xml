@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55006e47-11c1-4130-8c38-42877dcaafdf" name="Default" comment="" />
+    <list default="true" id="55006e47-11c1-4130-8c38-42877dcaafdf" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/filters/index.js" afterPath="$PROJECT_DIR$/src/filters/index.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -49,8 +51,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/filters/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="460">
+              <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -96,9 +98,9 @@
         <option value="$PROJECT_DIR$/src/componants/senator.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/componants/Senator.js" />
-        <option value="$PROJECT_DIR$/src/filters/index.js" />
         <option value="$PROJECT_DIR$/src/componants/Senators.js" />
         <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/filters/index.js" />
       </list>
     </option>
   </component>
@@ -215,12 +217,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522888129121</updated>
       <workItem from="1522888130438" duration="50000" />
-      <workItem from="1522888181783" duration="12789000" />
+      <workItem from="1522888181783" duration="12798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12839000" />
+    <option name="totallyTimeSpent" value="12848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -328,8 +330,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/filters/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="460">
+          <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
           <folding />
         </state>
       </provider>
